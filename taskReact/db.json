@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "bbf0",
+      "nombre": "Mirtha Lopez",
+      "correo": "mirtha_guido@outlook.com",
+      "ciudad": "Guancaste",
+      "contrasena": "@lban5856"
+    },
+    {
+      "id": "a0bb",
+      "nombre": "yancy",
+      "correo": "mirtha.com",
+      "ciudad": "guanacaste",
+      "contrasena": "@lban5856"
+    }
+  ],
+  "tareas": [
+    {
+      "id": "920d",
+      "descripcion": "trabajar",
+      "fecha": "2024-09-05"
+    }
+  ],
+  "autenticacion": [
+    {
+      "key": "true",
+      "id": "9316"
+    }
+  ]
+}
